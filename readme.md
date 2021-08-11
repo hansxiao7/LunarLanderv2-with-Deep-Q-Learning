@@ -1,5 +1,5 @@
-# Project 2 Description
-In Project 2, the objective is to build a policy to solve the lunarlander-v2 with more than 200 points averaged with 100 consecutive runs. To achieve the goal, the writer applied Deep Q-network (DQN) as the action-value function estimator and the -greedy algorithm to get the optimal policy. Training and test results for the trained DQNs are presented in this report. Additionally, discussions on DQN hyperparameters are provided, including studies on the number of nodes in hidden layers, the learning rate, the size of replay memory pool, and the maximum step allowed for each episode.
+# Project Description
+In this project, the objective is to build a policy to solve the lunarlander-v2 with more than 200 points averaged with 100 consecutive runs. To achieve the goal, the writer applied Deep Q-network (DQN) as the action-value function estimator and the -greedy algorithm to get the optimal policy. Training and test results for the trained DQNs are presented in this report. Additionally, discussions on DQN hyperparameters are provided, including studies on the number of nodes in hidden layers, the learning rate, the size of replay memory pool, and the maximum step allowed for each episode.
 # Instructions
 In this folder, the main code includes:
 - DQN-128 nodes.py: code used to train DQN;
